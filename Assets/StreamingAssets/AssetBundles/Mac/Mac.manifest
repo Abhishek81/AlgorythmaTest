@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 919060511
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: imageasset.ui
+      Dependencies: {}

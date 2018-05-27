@@ -1,0 +1,532 @@
+fileFormatVersion: 2
+guid: 29ad14cb71b704a4a9449619fc100db6
+timeCreated: 1527282825
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TileBurstAnimation_0
+    21300002: TileBurstAnimation_1
+    21300004: TileBurstAnimation_2
+    21300006: TileBurstAnimation_3
+    21300008: TileBurstAnimation_4
+    21300010: TileBurstAnimation_5
+    21300012: TileBurstAnimation_6
+    21300014: TileBurstAnimation_7
+    21300016: TileBurstAnimation_8
+    21300018: TileBurstAnimation_9
+    21300020: TileBurstAnimation_10
+    21300022: TileBurstAnimation_11
+    21300024: TileBurstAnimation_12
+    21300026: TileBurstAnimation_13
+    21300028: TileBurstAnimation_14
+    21300030: TileBurstAnimation_15
+    21300032: TileBurstAnimation_16
+    21300034: TileBurstAnimation_17
+    21300036: TileBurstAnimation_18
+    21300038: TileBurstAnimation_19
+    21300040: TileBurstAnimation_20
+    21300042: TileBurstAnimation_21
+    21300044: TileBurstAnimation_22
+    21300046: TileBurstAnimation_23
+    21300048: TileBurstAnimation_24
+    21300050: TileBurstAnimation_25
+    21300052: TileBurstAnimation_26
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TileBurstAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1333.3334
+        width: 262.2
+        height: 266.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TileBurstAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1333.3334
+        width: 262.2
+        height: 266.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TileBurstAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1333.3334
+        width: 262.2
+        height: 266.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TileBurstAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1333.3334
+        width: 262.2
+        height: 266.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TileBurstAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1333.3334
+        width: 262.2
+        height: 266.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TileBurstAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1067.3334
+        width: 262.2
+        height: 266.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TileBurstAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1067.3334
+        width: 262.2
+        height: 266.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TileBurstAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1067.3334
+        width: 262.2
+        height: 266.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TileBurstAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1067.3334
+        width: 262.2
+        height: 266.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TileBurstAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1067.3334
+        width: 262.2
+        height: 266.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TileBurstAnimation_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 801.3334
+        width: 262.2
+        height: 266.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TileBurstAnimation_11
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 801.3334
+        width: 262.2
+        height: 266.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TileBurstAnimation_12
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 801.3334
+        width: 262.2
+        height: 266.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TileBurstAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 801.3334
+        width: 262.2
+        height: 266.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TileBurstAnimation_14
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 801.3334
+        width: 262.2
+        height: 266.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TileBurstAnimation_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 535.3334
+        width: 262.2
+        height: 266.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TileBurstAnimation_16
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 535.3334
+        width: 262.2
+        height: 266.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TileBurstAnimation_17
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 535.3334
+        width: 262.2
+        height: 266.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TileBurstAnimation_18
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 535.3334
+        width: 262.2
+        height: 266.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TileBurstAnimation_19
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 535.3334
+        width: 262.2
+        height: 266.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TileBurstAnimation_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 269.33334
+        width: 262.2
+        height: 266.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TileBurstAnimation_21
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 269.33334
+        width: 262.2
+        height: 266.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TileBurstAnimation_22
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 269.33334
+        width: 262.2
+        height: 266.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TileBurstAnimation_23
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 269.33334
+        width: 262.2
+        height: 266.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TileBurstAnimation_24
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 269.33334
+        width: 262.2
+        height: 266.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TileBurstAnimation_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.3333435
+        width: 262.2
+        height: 266.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TileBurstAnimation_26
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 3.3333435
+        width: 262.2
+        height: 266.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
